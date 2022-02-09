@@ -14,3 +14,10 @@ Questão 3 - O que é repositório?
 Questão 4 - Os codigos que colocam no Github, estarão sempre disponiveis para os usuarios da internet?
 
 Não, dependendo da opção eles ficam privados para os usuarios
+
+Questão 5 - O que é VCS?
+
+É Software de Controle de Versão
+
+
+
