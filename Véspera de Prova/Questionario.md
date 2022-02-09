@@ -19,5 +19,8 @@ Questão 5 - O que é VCS?
 
 É Software de Controle de Versão
 
+Questão 6 - O que é branch?
+
+São ramificações do repositório
 
 
