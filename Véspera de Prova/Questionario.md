@@ -33,6 +33,11 @@ Questão 8 - O que é fork?
 Fork é que uma cópia de um repositório. Esta cópia vira um clone do estado atual do repositório, fazendo 
 assim com que você possa experimentar mudanças e feature novas sem precisar utilizar o repositório principal.
 
+Questão 9 - O que é clone?
+
+Ao clonar um repositório, você copia o repositório do GitHub para a sua máquina local.
+
+
 
 
 
