@@ -6,3 +6,7 @@ as equipes de software a gerenciar as alterações ao código-fonte ao longo do 
 Questão 2 - Quais linguagens posso utilizar quando trabalho com o Github?
 
 Não tem restrições de linguagem, podendo ser qualquer uma
+
+Questão 3 - O que é repositório?
+
+É uma pasta onde será colocado os arquivos do projeto
