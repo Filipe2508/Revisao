@@ -10,3 +10,7 @@ Não tem restrições de linguagem, podendo ser qualquer uma
 Questão 3 - O que é repositório?
 
 É uma pasta onde será colocado os arquivos do projeto
+
+Questão 4 - Os codigos que colocam no Github, estarão sempre disponiveis para os usuarios da internet?
+
+Não, dependendo da opção eles ficam privados para os usuarios
